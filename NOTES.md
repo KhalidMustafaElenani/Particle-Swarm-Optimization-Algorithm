@@ -4,7 +4,9 @@
 PSO is a stochastic population-based algorithm designed for nonlinear continuous optimization problems. It is inspired by the social behavior and dynamic movements of birds and fish, which seeks to optimize its position and velocity iteratively.
 
 ## Flowchart
-
+<p align="center">
+  <img src="PSO_Algorithm_Flowchart.png" alt="PSO Algorithm Flowchart" />
+</p>
 
 ## Key Concepts
 ### Combining Self-Experiences with Social Experiences
