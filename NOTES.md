@@ -21,13 +21,13 @@ PSO enables particles to adapt their movements based on:
 3. Update the particle's best-known position.
 4. Determine the best particle.
 5. Update particles' velocities using the formula:
-    V(t + 1) = wV(t) + c1r1(Pbest - P(t)) + c2r2(Gbest - P(t))
+    `V(t + 1) = wV(t) + c1r1(Pbest - P(t)) + c2r2(Gbest - P(t))`
       - `w` is the inertia weight.
       - `c1` is the learning rate for personal best.
       - `c2` is the learning rate for global best.
       - `r1` and `r2` are random numbers in [0, 1].
 6. Move particles to their new positions:
-     P(t + 1) = P(t) + V(t + 1)
+    ` P(t + 1) = P(t) + V(t + 1)`
 7. Repeat until stopping criteria are met.
 
 ## Inertia in PSO
