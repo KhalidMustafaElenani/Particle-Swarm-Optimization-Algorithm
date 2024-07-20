@@ -4,7 +4,5 @@
 * It is widely used in artificial intelligence, machine learning, and other computational fields for solving optimization problems.
 
 ## Installation
-* To use the ABC algorithm, clone this repository and install the required dependencies.
 
 ## Contributing
-* Feel free to fork this repository, make improvements, and submit pull requests. Your contributions are welcome!
