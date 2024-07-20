@@ -16,7 +16,7 @@ PSO enables particles to adapt their movements based on:
 
 ## Four Factors
 <p align="center">
-  <img src="four_factors.png" alt="Four Factors" />
+  <img src="PSO_four_factors.png" alt="Four Factors" />
 </p>
 
 ### Factors Considered by Each Particle
