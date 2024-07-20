@@ -6,8 +6,8 @@ PSO is a computational method used for optimizing a wide range of functions by s
 It is widely used in artificial intelligence, machine learning, and other computational fields for solving optimization problems.
 
 ## Installation
-To install the necessary packages, run:  pip install -r requirements.txt
+To install the necessary packages, run:  `pip install -r requirements.txt`
 
 ## Usage
-To run the PSO algorithm, execute: python pso.py
+To run the PSO algorithm, execute: `python pso.py`
 
