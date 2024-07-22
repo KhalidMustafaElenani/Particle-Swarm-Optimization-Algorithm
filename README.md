@@ -1,6 +1,9 @@
 # Particle Swarm Optimization (PSO) Algorithm
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Swarm_intelligence](https://img.shields.io/badge/Swarm%20intelligence%20-%20brown?style=plastic)
+![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkred?style=plastic)
+![Particle_swarm_optimization](https://img.shields.io/badge/Particle_swarm_optimization-1995-%20teal?style=plastic)
+![Python Version](https://img.shields.io/badge/Python-3-%20teal?style=plastic)
+![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Description
@@ -11,7 +14,7 @@ This repository contains a Python implementation of the Particle Swarm Optimizat
 2. Navigate to the project directory: `cd Particle-Swarm-Optimization-Algorithm`
 
 ## Usage Examples
-  - Run the PSO algorithm by executing the main.py file: `python PSO Algorithm.py`
+  - Run the PSO algorithm by executing the main.py file: `python PSO_Algorithm.py`
 
 ## Example Output
 ```
@@ -25,9 +28,8 @@ Particle 5: [Position: [0.01 0.06 0.01 0.07]      Velocity: [ 0.04 -0.01  0.07 -
 
 Global Best Value: [0.01 0.06 0.01 0.07]          Score: 0.01
 ```
-## TurtleBot 2
 <p align="center">
-  <img src="PSO_example_output.png" alt="PSO_example_output" width="300"/>
+  <img src="PSO_example_output.png" alt="PSO_example_output" width="500"/>
 </p>
 
 For detailed setup instructions and execution, refer to the [NOTES.md](NOTES.md).
