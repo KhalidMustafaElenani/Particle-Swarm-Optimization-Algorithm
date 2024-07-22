@@ -1,7 +1,7 @@
 # Particle Swarm Optimization (PSO) Algorithm
 ![Swarm_intelligence](https://img.shields.io/badge/Swarm%20intelligence%20-%20brown?style=plastic)
-![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkred?style=plastic)
 ![Particle_swarm_optimization](https://img.shields.io/badge/Particle_swarm_optimization-1995-%20teal?style=plastic)
+![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkred?style=plastic)
 ![Python Version](https://img.shields.io/badge/Python-3-%20teal?style=plastic)
 ![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
