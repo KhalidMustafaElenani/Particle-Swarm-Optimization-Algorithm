@@ -32,4 +32,5 @@ Global Best Value: [0.01 0.06 0.01 0.07]          Score: 0.01
   <img src="PSO_example_output.png" alt="PSO_example_output" width="500"/>
 </p>
 
+## Notes
 For detailed setup instructions and execution, refer to the [NOTES.md](NOTES.md).
