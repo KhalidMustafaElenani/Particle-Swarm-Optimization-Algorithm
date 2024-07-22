@@ -14,6 +14,7 @@ This repository contains a Python implementation of the Particle Swarm Optimizat
   - Run the PSO algorithm by executing the main.py file: `python PSO Algorithm.py`
 
 ## Example Output
+```
 Iteration 50:
 ---------------
 Particle 1: [Position: [-0.04  0.06  0.01  0.09]	 Velocity: [-0.01 -0.02 -0.03  0.16]	 Fitness: 0.01		 Personal Best: [-0.01  0.06  0.03  0.09]]
@@ -23,5 +24,5 @@ Particle 4: [Position: [-0.04  0.07  0.01  0.07]	 Velocity: [-0.01 -0.    0.   -
 Particle 5: [Position: [0.01 0.06 0.01 0.07]	     Velocity: [ 0.04 -0.01  0.07 -0.01]	 Fitness: 0.01		 Personal Best: [0.01 0.06 0.01 0.07]]
 
 Global Best Value: [0.01 0.06 0.01 0.07] 		       Score: 0.01
-
+```
 For detailed setup instructions and execution, refer to the [NOTES.md](NOTES.md).
