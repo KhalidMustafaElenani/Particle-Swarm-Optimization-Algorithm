@@ -5,7 +5,7 @@ PSO is a stochastic population-based algorithm designed for nonlinear continuous
 
 ## Flowchart
 <p align="center">
-  <img src="PSO_Algorithm_Flowchart.png" alt="PSO Algorithm Flowchart" />
+  <img src="PSO_Algorithm_Flowchart.png" alt="PSO Algorithm Flowchart" width="500"/>
 </p>
 
 ## Key Concepts
