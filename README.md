@@ -14,7 +14,7 @@ This repository contains a Python implementation of the Particle Swarm Optimizat
 2. Navigate to the project directory: `cd Particle-Swarm-Optimization-Algorithm`
 
 ## Usage Examples
-  - Run the PSO algorithm by executing the main.py file: `python PSO_Algorithm.ipynb`
+  - Run the PSO algorithm by executing the main.py file: `python PSO_algorithm.ipynb`
 
 ## Example Output
 ```
