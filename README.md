@@ -7,12 +7,13 @@
 This repository contains a Python implementation of the Particle Swarm Optimization (PSO) algorithm. PSO is a computational method used for optimizing a wide range of functions by simulating the social behavior of birds within a flock. It is widely used in artificial intelligence, machine learning, and other computational fields for solving optimization problems.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/KhalidMustafaElenani/Particle-Swarm-Optimization-Algorithm.git
-2. Navigate to the project directory: cd Particle-Swarm-Optimization-Algorithm
+1. Clone the repository: `git clone https://github.com/KhalidMustafaElenani/Particle-Swarm-Optimization-Algorithm.git`
+2. Navigate to the project directory: `cd Particle-Swarm-Optimization-Algorithm`
 
 ## Usage Examples
-  - Run the PSO algorithm by executing the main.py file: python main.py
+  - Run the PSO algorithm by executing the main.py file: `python PSO Algorithm.py`
 
+## Example Output
 
 
 For detailed setup instructions and execution, refer to the [NOTES.md](NOTES.md).
