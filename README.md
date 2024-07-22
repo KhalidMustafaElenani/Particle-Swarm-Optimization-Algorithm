@@ -3,8 +3,8 @@
 ![Particle_swarm_optimization](https://img.shields.io/badge/Particle_swarm_optimization-1995-%20teal?style=plastic)
 ![License](https://img.shields.io/badge/license%20-%20MIT%20-%20darkred?style=plastic)
 ![Python Version](https://img.shields.io/badge/Python-3-%20teal?style=plastic)
-![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 
 ## Description
 This repository contains a Python implementation of the Particle Swarm Optimization (PSO) algorithm. PSO is a computational method used for optimizing a wide range of functions by simulating the social behavior of birds within a flock. It is widely used in artificial intelligence, machine learning, and other computational fields for solving optimization problems.
